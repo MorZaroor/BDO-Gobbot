@@ -1,0 +1,11 @@
+{
+  "name": "Gobbot",
+  "version": "1.0.0",
+  "description": "Gobbot for BDO alerts",
+  "main": "gobbo.js",
+  "author": "Mor Zaroor and Frodo G",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-opus": "^0.3.0"
+  }
+}

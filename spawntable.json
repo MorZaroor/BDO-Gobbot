@@ -1,0 +1,172 @@
+{
+	"spawn": [
+		{
+		"time": "1:0",
+		"Sunday": ["Nouver", "Kutum"],
+		"Monday": ["Kutum"],
+		"Tuesday": ["Karanda"],
+		"Wednesday": ["Kutum"],
+		"Thursday": ["Nouver"],
+		"Friday": ["Kzarka"],
+		"Saturday": ["Karanda"]
+		},
+		{
+		"time": "2:45",
+		"Sunday": ["Kzarka"],
+		"Monday": ["Karanda"],
+		"Tuesday": ["Kutum"],
+		"Wednesday": ["Karanda"],
+		"Thursday": ["Kutum"],
+		"Friday": ["Nouver"],
+		"Saturday": ["Offin"]
+		},
+		{
+		"time": "5:45",
+		"Sunday": ["Kutum"],
+		"Monday": ["Kzarka"],
+		"Tuesday": ["Kzarka"],
+		"Wednesday": ["Kzarka"],
+		"Thursday": ["Nouver"],
+		"Friday": ["Karanda"],
+		"Saturday": ["Nouver"]
+		},
+		{
+		"time": "9:45",
+		"Sunday": ["Nouver"],
+		"Monday": ["Kzarka"],
+		"Tuesday": ["Kutum"],
+		"Wednesday": ["Karanda"],
+		"Thursday": ["Kutum"],
+		"Friday": ["Kutum"],
+		"Saturday": ["Kutum"]
+		},
+		{
+		"time": "12:45",
+		"Sunday": ["Kzarka"],
+		"Monday": ["Nouver"],
+		"Tuesday": ["Offin"],
+		"Wednesday": ["Maintenance"],
+		"Thursday": ["Nouver"],
+		"Friday": ["Karanda"],
+		"Saturday": ["Nouver"]
+		},
+		{
+		"time": "16:45",
+		"Sunday": ["Vell"],
+		"Monday": ["Kutum"],
+		"Tuesday": ["Nouver"],
+		"Wednesday": ["Kzarka"],
+		"Thursday": ["Kutum"],
+		"Friday": ["Nouver"],
+		"Saturday": ["Quint/Muraka"]
+		},
+		{
+		"time": "19:45",
+		"Sunday": ["Karanda"],
+		"Monday": ["Nouver"],
+		"Tuesday": ["Karanda"],
+		"Wednesday": ["Kutum"],
+		"Thursday": ["Offin"],
+		"Friday": ["Kzarka"],
+		"Saturday": ["Karanda", "Kzarka"]
+		},
+		{
+		"time": "23:0",
+		"Sunday": ["Nouver", "Kzarka"],
+		"Monday": ["Kzarka"],
+		"Tuesday": ["Nouver", "Kzarka"],
+		"Wednesday": ["Karanda", "Kzarka"],
+		"Thursday": ["Karanda"],
+		"Friday": ["Kutum", "Kzarka"],
+		"Saturday": ["Conquest War"]
+		}],
+	"list": ["Kzarka", "Karanda", "Kutum", "Nouver", "Offin", "Quint/Muraka", "Vell", "Maintenance", "Conquest War"],
+	"times": ["01:15", "03:00", "06:00", "10:00", "13:00", "17:00", "20:00", "23:15"],
+	"game_times": {
+		"01:15": "00:15",
+		"03:00": "02:00",
+		"06:00": "05:00",
+		"10:00": "09:00",
+		"13:00": "12:00",
+		"17:00": "16:00",
+		"20:00": "19:00",
+		"23:15": "22:15"
+		},
+	"spawnday": [{
+		"day": "Sunday",
+		"01:15": ["Nouver", "Kutum"],
+		"03:00": ["Kzarka"],
+		"06:00": ["Kutum"],
+		"10:00": ["Nouver"],
+		"13:00": ["Kzarka"],
+		"17:00": ["Vell"],
+		"20:00": ["Karanda"],
+		"23:15": ["Nouver", "Kzarka"]
+		},
+		{
+		"day": "Monday",
+		"01:15": ["Kutum"],
+		"03:00": ["Karanda"],
+		"06:00": ["Kzarka"],
+		"10:00": ["Kzarka"],
+		"13:00": ["Nouver"],
+		"17:00": ["Kutum"],
+		"20:00": ["Nouver"],
+		"23:15": ["Kzarka"]
+		},
+		{
+		"day": "Tuesday",
+		"01:15": ["Karanda"],
+		"03:00": ["Kutum"],
+		"06:00": ["Kzarka"],
+		"10:00": ["Kutum"],
+		"13:00": ["Offin"],
+		"17:00": ["Nouver"],
+		"20:00": ["Karanda"],
+		"23:15": ["Nouver", "Kzarka"]
+		},
+		{
+		"day": "Wednesday",
+		"01:15": ["Kutum"],
+		"03:00": ["Karanda"],
+		"06:00": ["Kzarka"],
+		"10:00": ["Karanda"],
+		"13:00": ["Maintenance"],
+		"17:00": ["Kzarka"],
+		"20:00": ["Kutum"],
+		"23:15": ["Karanda", "Kzarka"]
+		},
+		{
+		"day": "Thursday",
+		"01:15": ["Nouver"],
+		"03:00": ["Kutum"],
+		"06:00": ["Nouver"],
+		"10:00": ["Kutum"],
+		"13:00": ["Nouver"],
+		"17:00": ["Kutum"],
+		"20:00": ["Offin"],
+		"23:15": ["Karanda"]
+		},
+		{
+		"day": "Friday",
+		"01:15": ["Kzarka"],
+		"03:00": ["Nouver"],
+		"06:00": ["Karanda"],
+		"10:00": ["Kutum"],
+		"13:00": ["Karanda"],
+		"17:00": ["Nouver"],
+		"20:00": ["Kzarka"],
+		"23:15": ["Kutum", "Kzarka"]
+		},
+		{
+		"day": "Saturday",
+		"01:15": ["Karanda"],
+		"03:00": ["Offin"],
+		"06:00": ["Nouver"],
+		"10:00": ["Kutum"],
+		"13:00": ["Nouver"],
+		"17:00": ["Quint/Muraka"],
+		"20:00": ["Karanda", "Kzarka"],
+		"23:15": ["Conquest War"]
+		}]
+}
